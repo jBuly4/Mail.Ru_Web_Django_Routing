@@ -44,5 +44,6 @@ solution_routing.zip и т.д.) . В архиве должно содержат�
 ![](./Pictures/table_5.png)
 
 
-Ответы в [views](./coucoursera_assignment_tmp/routing/views.py) и [urls](./coucoursera_assignment_tmp/routing/urls.py)
+Ответы в [views](./views.py) и [urls](./urls.py)
+
 
